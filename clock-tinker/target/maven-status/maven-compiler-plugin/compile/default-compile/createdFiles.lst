@@ -1,0 +1,3 @@
+com\alibaba\jvm\sandbox\demo\BrokenClockTinkerModule.class
+com\alibaba\jvm\sandbox\demo\BrokenClockTinkerModule$1.class
+META-INF\services\com.alibaba.jvm.sandbox.api.Module
